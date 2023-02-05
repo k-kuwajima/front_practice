@@ -1,7 +1,10 @@
 # front_practice
-フロントコーディング練習用
+フロントコーディング練習用  
 
-## practice1
+こちらのサイトを仕様
+https://code-step.com/coding-recommend/
+
+## practice1_【①：入門編】ウォーミングアップ用の模写サイト
 ### URL
 https://k-kuwajima.github.io/front_practice/practice01/index.html
 
