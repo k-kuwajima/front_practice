@@ -19,4 +19,9 @@ https://web-camp.io/magazine/archives/85309#:~:text=section%E3%82%BF%E3%82%B0%E3
 https://web-de-asobo.net/2021/09/10/header-footer-main-tag/
 
 ・メディアクエリとは  
-https://www.willgate.co.jp/promonista/media-query/
+https://www.willgate.co.jp/promonista/media-query/  
+
+
+## practice1【①：入門編】ウォーミングアップ用の模写サイト
+### URL
+https://k-kuwajima.github.io/front_practice/practice02/index.html
