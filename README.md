@@ -22,6 +22,6 @@ https://web-de-asobo.net/2021/09/10/header-footer-main-tag/
 https://www.willgate.co.jp/promonista/media-query/  
 
 
-## practice1【①：入門編】ウォーミングアップ用の模写サイト
+## practice1【②：初級編】簡単なHTMLとCSSでできるLPの模写サイト
 ### URL
 https://k-kuwajima.github.io/front_practice/practice02/index.html
