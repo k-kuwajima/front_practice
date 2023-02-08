@@ -25,3 +25,11 @@ https://www.willgate.co.jp/promonista/media-query/
 ## practice1【②：初級編】簡単なHTMLとCSSでできるLPの模写サイト
 ### URL
 https://k-kuwajima.github.io/front_practice/practice02/index.html
+
+・aタグとtarget 属性について
+https://wwg.co.jp/blog/3807  
+
+
+・picutureタグについて  
+https://developer.mozilla.org/ja/docs/Web/HTML/Element/picture
+

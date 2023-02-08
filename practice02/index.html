@@ -13,23 +13,63 @@
     <body>
         <!-- ヘッダー -->
         <header id="header">
+            <h1 class="site-title">
+                <a href="index.html"><img decoding="async" src="img/logo.svg" alt="My Work"></a>
+            </h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#works">Works</a></li>
+                    <li><a href="#news">News</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li>
+                        <!-- target="_blank"で別タブで開く事ができる。これだけだとセキュリティの問題がある為、rel="noopener noreferrer"を指定する。 -->
+                        <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
+                            <img decoding="async" class="icon" src="img/icon-instagram.png" alt="インスタグラム">
+                        </a>
+                    </li>
+                </ul>
+            </nav>
 
         </header>
 
         <main>
             <!-- メインビジュアル -->
             <div id="mainvisual">
-                <img decoding="async" src="img/mainvisual-pc.jpg" alt="メインビジュアル">
+                <picture>
+                    <source media="(max-width: 600px)" srcset="img/mainvisual-sp.jpg">
+                    <img decoding="async" src="img/mainvisual-pc.jpg" alt="メインビジュアル">
+                </picture>
             </div>
 
             <!-- Aboutセクション -->
             <section id="about" class="wrapper">
-
+                <h2 class="sec-title">About</h2>
+                <ul>
+                    <li>Xxxxx Ashley</li>
+                    <li>2th Floor xxxxx Building x-x-x Nishiazabu, Minato-ku, Tokyo 106-0031 Japan</li>
+                    <li>tel: 000-0000-0000</li>
+                    <li>url: www.xxxxxx.jp</li>
+                    <li>mail: xxx@xxxxxx.jp</li>
+                </ul>
+                <p>
+                    プロフィールテキストテキストテキストテキストテキストテキストテキストテキストテキストスト
+                    テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
+                    テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
+                </p>
             </section>
 
             <!-- Worksセクション -->
             <section id="works" class="wrapper">
-
+                <h2 class="sec-title">Works</h2>
+                <ul>
+                    <li><img decoding="async" src="img/works1.jpg" alt="works1"></li>
+                    <li><img decoding="async" src="img/works2.jpg" alt="works2"></li>
+                    <li><img decoding="async" src="img/works3.jpg" alt="works3"></li>
+                    <li><img decoding="async" src="img/works4.jpg" alt="works4"></li>
+                    <li><img decoding="async" src="img/works5.jpg" alt="works5"></li>
+                    <li><img decoding="async" src="img/works6.jpg" alt="works6"></li>
+                </ul>
             </section>
 
             <!-- Newsセクション -->
