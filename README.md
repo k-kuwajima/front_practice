@@ -29,7 +29,13 @@ https://k-kuwajima.github.io/front_practice/practice02/index.html
 ・aタグとtarget 属性について
 https://wwg.co.jp/blog/3807  
 
-
 ・picutureタグについて  
 https://developer.mozilla.org/ja/docs/Web/HTML/Element/picture
+
+・dl dt dd タグについて  
+https://ferret-plus.com/5063
+
+・labelタグのfor属性について  
+https://style.potepan.com/articles/20037.html
+
 
